@@ -5,6 +5,7 @@ import streamlit as st
 import pandas as pd
 from PIL import Image 
 import pickle 
+import sklearn
 
 ## load the trained model 
 with open("pcos_model", "rb") as file:
