@@ -19,7 +19,7 @@ def pcos_prediction(input):
     print(prediction)
 
     if(prediction[0]==0):
-        return "It is likely you do have PCOS"
+        return "It is likely you do not have PCOS"
     else:
         return "It is likely you have PCOS"
 
