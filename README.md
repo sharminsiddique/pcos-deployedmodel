@@ -1,7 +1,7 @@
 Polycystic Ovary Syndrome (PCOS) affects about 5-10% of women worldwide.
-This is a repo where a model has been created via Streamlit for predicting the likelihood of PCOS from health markers. 
+This is a repo where a [model] (https://pcos-prediction.streamlit.app) has been created via Streamlit for predicting the likelihood of PCOS from health markers. 
 
-The Kaggle was analysed to:
+The [Kaggle] (https://www.kaggle.com/prasoonkottarathil/polycystic-ovary-syndrome-pcos%7D%7D) was analysed to:
 - explore the data 
 - determine what health markers are most correlated/are most affected by having PCOS
 - find what models could predict having/not having PCOS with any degree of accuracy 
