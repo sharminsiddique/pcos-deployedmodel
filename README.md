@@ -11,11 +11,11 @@ The aim was also to answer the following:
 - How do factors correlate for individuals with/without PCOS? Age, BMI, hormone levels etc..
 
 The highest correlating factors to having PCOS were the following: 
-  The amount of follicles on the left and right ovaries,
-  Whether someone experienced skin darkening, excessive hair growth, excessive weight gain, pimples, hair loss
-  Whether their cycle was regular or irregular, 
-  Whether they consumed fast food,
-  Their weight, BMI, waist and hip size, their endometrial thickness, their average follicle size on their left ovary, and their AMH level.
+- The amount of follicles on the left and right ovaries,
+- Whether someone experienced skin darkening, excessive hair growth, excessive weight gain, pimples, hair loss
+- Whether their cycle was regular or irregular, 
+- Whether they consumed fast food,
+- Their weight, BMI, waist and hip size, their endometrial thickness, their average follicle size on their left ovary, and their AMH level.
 
 This all cooincides with research for symptoms individuals experience when they have PCOS. 
 
